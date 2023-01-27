@@ -68,7 +68,7 @@
                                     </item>
                                 </analysisRules>
                             </postProcessing>
-                            <applicationProperties type="com.fnfr.itest.platform2.shared.documents.ntaf.NtafTransferableDocumentObject" action="Authentication" subharness="http://spirent.com/CustomizedSessions/tools/CyberFlood/harness/main" harness="http://spirent.com/CustomizedSessions/tools/CyberFlood/harness/main" harnessName="Spirent Custom Tool" email="apt-cf-user@spirent.com" email.inherit="false" email.sub="false" password.masked="true" password="SrqvrrOjrgE=" password.inherit="false" password.sub="false"/>
+                            <applicationProperties type="com.fnfr.itest.platform2.shared.documents.ntaf.NtafTransferableDocumentObject" action="Authentication" subharness="http://spirent.com/CustomizedSessions/tools/CyberFlood/harness/main" harness="http://spirent.com/CustomizedSessions/tools/CyberFlood/harness/main" harnessName="Spirent Custom Tool" email="apt-cf-user@spirent.com" email.inherit="false" email.sub="false" password.masked="true" password="******" password.inherit="false" password.sub="false"/>
                         </item>
                     </nestedSteps>
                     <applicationProperties type="com.fnfr.svt.documents.EmptyPropertyGroup"/>
